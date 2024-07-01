@@ -7,7 +7,7 @@ Great! Use the issue tracker above and to the left, or by clicking here [issues]
 ## Come join the my modding community!
 Discord: https://discord.gg/eWWnDRM3Cv
 
-[**![Bisecthosting](https://media.forgecdn.net/attachments/903/146/craftingtabledarkbanner.png)**](https://EnderSpy29.github.io/OneLinkToRuleThemAll)
+[![Bisecthosting](https://media.forgecdn.net/attachments/903/146/craftingtabledarkbanner.png)](https://EnderSpy29.github.io/OneLinkToRuleThemAll)
 Want to host Colonial Expansion II?, or some other server? Get a [Server with Bisecthosting](https://EnderSpy29.github.io/OneLinkToRuleThemAll) and use code EnderSpy to get your first month as a new customer for 25% off!
 
 [Colonial Modpage](https://www.curseforge.com/minecraft/modpacks/colonial-expansion-ii)
